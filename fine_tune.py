@@ -12,7 +12,10 @@ lora_config = LoraConfig(
 )
 
 print("loading model...")
-model = AutoModelForCausalLMWithValueHead.from_pretrained("meta-llama/Llama-2-7b-hf", peft_config=lora_config, load_in_4bit=True)
+model = AutoModelForCausalLMWithValueHead.from_pretrained(
+        "meta-llama/Llama-2-7b-hf", 
+        peft_config=lora_config, 
+        load_in_8bit=True)
 print("model loaded.")
 
 print("loading dataset...")
