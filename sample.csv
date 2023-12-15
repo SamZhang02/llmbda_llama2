@@ -1,6 +1,0 @@
-,index,course,req_type,requisite,object_tree,json_tree
-1511,3515,MUCO373,1,"Prerequisites: MUHL 184, MUHL 185, MUTH 211 or MUCO 240D1/D2, MUSP 231; or MUHL 186, MUHL 286, MUTH 250 or MUCO 240D1/D2, MUSP 241","['|', ['&', 'MUHL 184', 'MUHL 185', ['|', 'MUTH 211', ['&', 'MUCO 240D1', 'MUCO 240D2']], 'MUSP 231'], ['&', 'MUHL 186', 'MUHL 286', ['|', 'MUTH 250', ['&', 'MUCO 240D1', 'MUCO 240D2']]], 'MUSP 241']",{}
-23,74,AGRI550,1,Prerequisites: HISP 218 or equivalent; MATH 203 or AEMA 310 or equivalent ,"['&', 'HISP 218', ['|', 'MATH 203', 'AEMA 310']]",{}
-1018,2458,GEOG360,1,Prerequisites: ENVR 201 or equivalent; and GEOG 203 or ENVR 200 or ESYS 200 or equivalent; or permission of instructor,"['&', 'ENVR 201', ['|', 'GEOG 203', 'ENVR 200', 'ESYS 200']]",{}
-49,126,ANTH319,1,Prerequisite: ANTH 201 or ANTH 202 or HISP 225 or permission of instructor.,"['|', 'ANTH 201', 'ANTH 202', 'HISP 225']",{}
-703,1203,COMP330,1,Prerequisite: COMP 251.,'COMP 251',{}
